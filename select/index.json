@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "接吻とフレンド",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-16T08:42:33.961362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "接吻とフレンド",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/01_接吻とフレンド_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "接吻とフレンド",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_接吻とフレンド_My_Hair_is_Bad.txt"
+    }
+  ]
+}
